@@ -2,7 +2,7 @@ import { pool } from "./dbconnect.js";
 import { validator } from "./validator.js";
 
 let address = {name: "", city: "" };
-let key={user:"nayaki", password:"444"};
+let key={user:"nayakii", password:"444"};
 
 // Post function
 export const createAddress = (req, res) => {
